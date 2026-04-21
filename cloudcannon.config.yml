@@ -1,0 +1,114 @@
+# Read the CloudCannon documentation for more information on how to use this file:
+# https://cloudcannon.com/documentation/articles/setting-global-configuration/?ssg=Hugo
+
+# Collections are related sets of content files, typically grouped by folder.
+# Here you can define your collections, as well as any
+# CloudCannon configuration specific to those collections.
+collections_config:
+  pages:
+    path: content
+    glob:
+      - '!components.md'
+      - '!posts/_index.md'
+      - '!projects/_index.md'
+    icon: 'wysiwyg'
+    _enabled_editors:
+      - visual
+      - content
+    schemas:
+      page:
+        path: schemas/pages.md
+    filter:
+      base: strict
+  projects:
+    path: content/projects
+    _enabled_editors:
+      - content
+      - visual
+    icon: work_outline
+    schemas:
+      default:
+        path: schemas/projects.md
+  testimonials:
+    path: content/testimonials
+    icon: format_quote
+    disable_url: true
+    preview:
+      icon: 'format_quote'
+      gallery: 
+        image:
+          - key: 'image'
+        fit: contain
+      subtext: 
+        - key: 'position'
+    _enabled_editors:
+      - data
+    schemas:
+      default:
+        path: schemas/testimonials.md
+  posts:
+    path: content/posts
+    icon: event_available
+    _enabled_editors:
+      - content
+      - visual
+    schemas:
+      default:
+        path: schemas/posts.md
+  data:
+    path: data
+    disable_url: true
+
+
+
+# Control which collections are displayed in the CloudCannon site navigation,
+# and how those collections are grouped.
+collection_groups:
+  - heading: Content
+    collections:
+      - pages
+      - projects
+      - testimonials
+  - heading: Blogging
+    collections:
+      - posts
+  - heading: Settings
+    collections:
+      - data
+
+# Set this to true to disable auto-detection of collections.
+collections_config_override: false
+
+# Control which data sets are available to populate select and multiselect inputs.
+data_config:
+
+# Base path to your source files, relative to the root folder of your repository.
+source:
+
+# The locations of various types of files within your site.
+# Each path is relative to your site's source folder.
+paths:
+  static: static
+  uploads: static/uploads
+
+# Lets you control the look and behaviour of the Source Editor.
+source_editor:
+
+_snippets_imports:
+  hugo: true
+
+# inputs
+
+_inputs:
+  draft:
+    comment: If checked, this page will remain hidden on the live site
+  twitter_handle:
+    type: twitter
+
+# Timezone of your site in IANA format. This is used by date and datetime inputs
+# within the CloudCannon Data Editor.
+timezone: Etc/UTC
+
+_structures:
+  content_blocks:
+    style: modal
