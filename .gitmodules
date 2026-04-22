@@ -1,0 +1,3 @@
+[submodule "themes/vonge"]
+	path = themes/vonge
+	url = https://github.com/paberr/vonge-zola-theme

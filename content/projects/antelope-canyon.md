@@ -1,18 +1,13 @@
----
-date: 2021-01-09 05:20:35 +0300
-draft: false
-title: Antelope Canyon
-subtitle: Photography
-tags: [travel, photography, nature, project]
-image: '/images/project-8.jpg'
-seo:
-  page_description: 
-  canonical_url: 
-  featured_image: 
-  author_twitter_handle: 
-  open_graph_type:
-  no_index: false
----
++++
+date = "2021-01-09 05:20:35"
+draft = false
+title = "Antelope Canyon"
+description = "Photography"
+[taxonomies]
+tags = ["travel", "photography", "nature", "project"]
+[extra]
+image = '/images/project-8.jpg'
++++
 In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem.
 
 ![Palm trees](/images/image-example-3.jpg)

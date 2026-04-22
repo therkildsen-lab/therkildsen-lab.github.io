@@ -1,18 +1,13 @@
----
-date: 2021-01-10 05:20:35 +0300
-draft: false
-title: Green Plant
-subtitle: Photography
-tags: [project]
-image: '/images/project-9.jpg'
-seo:
-  page_description: 
-  canonical_url: 
-  featured_image: 
-  author_twitter_handle: 
-  open_graph_type:
-  no_index: false
----
++++
+date = "2021-01-10 05:20:35"
+draft = false
+title = "Green Plant"
+description = "Photography"
+[taxonomies]
+tags = ["project"]
+[extra]
+image = '/images/project-9.jpg'
++++
 In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem.
 
 ![Palm trees](/images/image-example-3.jpg)

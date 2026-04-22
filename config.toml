@@ -1,17 +1,88 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "Hugo Bookshop Starter"
-_enabled_editors = ["visual", "content"]
+# The URL the site will be built for
+base_url = "https://paberr.github.io/vonge-zola-theme/"
 
-[taxonomies]
-category = 'categories'
-tag = 'tags'
+title = "Therkildsen Lab"
+author = "Therkildsen Lab"
+description = "Conservation Genomics and Molecular Ecology"
 
-[module]
-replacements = "local/component-library -> ../component-library"
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
 
-[[module.imports]]
-path = 'local/component-library'
+generate_feeds = true
+feed_filenames = [ "atom.xml",]
+minify_html = true
 
-[[module.imports]]
-path = 'github.com/cloudcannon/bookshop/hugo/v3'
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+theme = "vonge"
+taxonomies = [
+    { name = "tags", feed = true},
+]
+
+[extra]
+logo_image = "images/TherkildsenLogo.png"
+social_media_share_image = "/images/01.jpg"
+disqus_identifier = ""
+google_analytics = ""
+twitter_handle = ""
+
+author_image = '/images/avatar.jpg'
+
+navigation = [
+    { url = "$BASE_URL", title = "Home" },
+    { url = "$BASE_URL/about", title = "About" },
+    { url = "$BASE_URL/projects", title = "Projects" },
+    { url = "$BASE_URL/posts", title = "Posts" },
+    { url = "$BASE_URL/codeofconduct", title = "Code of Conduct" },
+    { url = "$BASE_URL/contact", title = "Get in Touch" }
+]
+social_icons = []
+date_format = "%d %b %Y"
+language_direction = "auto"
+keywords = ["keyword1", "keyword2", "keyword3"]
+
+[extra.newsletter]
+newsletter_title = "Join my mailing list"
+newsletter_identifier = ""
+newsletter_button = "Subscribe"
+newsletter_description = "Get inspiration, updates and, cool stuff!"
+
+[extra.footer]
+menu = [
+    { url = "$BASE_URL", title = "Home" },
+    { url = "$BASE_URL/projects/", title = "Projects" },
+    { url = "$BASE_URL/elements/", title = "Elements" },
+    { url = "$BASE_URL/about/", title = "About" },
+    { url = "$BASE_URL/posts/", title = "Blog" },
+]
+#copyright = ""
+
+
+[[extra.content_blocks]]
+block = "hero"
+title = "Therkildsen Lab"
+description_html = "We study how marine species adapt to their environment and respond to altered conditions caused by selective harvest, climate change, or other anthropogenic pressures in a rapidly changing world. We do that using novel sequencing approaches for population genomic studies of non-model organisms."
+image = "/images/labphoto.jpg"
+image_alt = "Group lab photo"
+cta_button_link = "#contact"
+cta_button = "Get in touch"
+works_button_link = "#projects"
+works_button = "See our work"
+[[extra.content_blocks]]
+block = "projects-section"
+title = "Latest Projects"
+description_html = ""
+link_url = "/projects"
+show_projects = true
+[[extra.content_blocks]]
+block = "testimonials-section"
+title = "Current Members"
+description_html = ""
+show_testimonials = true
+[[extra.content_blocks]]
+block = "blog-section"
+title = "Recent Posts"
+description_html = ""
+link_url = "/posts"
+show_posts = true

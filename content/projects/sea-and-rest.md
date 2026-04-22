@@ -1,18 +1,15 @@
----
-date: 2021-01-04 07:50:35 +0300
-draft: false
-title: Sea and rest
-subtitle: Photography
-tags: [photography, nature, project]
-image: '/images/project-3.jpg'
-seo:
-  page_description: 
-  canonical_url: 
-  featured_image: 
-  author_twitter_handle: 
-  open_graph_type:
-  no_index: false
----
++++
+date = "2021-01-04 07:50:35"
+draft = false
+title = "Sea and rest"
+description = "Photography"
+
+[taxonomies]
+tags = ["photography", "nature", "project"]
+
+[extra]
+image = "/images/project-3.jpg"
++++
 
 In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem.
 
