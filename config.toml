@@ -57,16 +57,16 @@ cta_button = "Get in touch"
 works_button_link = "#projects"
 works_button = "See our work"
 [[extra.content_blocks]]
+block = "testimonials-section"
+title = "Current Members"
+description_html = ""
+show_testimonials = true
+[[extra.content_blocks]]
 block = "projects-section"
 title = "Latest Projects"
 description_html = ""
 link_url = "/projects"
 show_projects = true
-[[extra.content_blocks]]
-block = "testimonials-section"
-title = "Current Members"
-description_html = ""
-show_testimonials = true
 [[extra.content_blocks]]
 block = "blog-section"
 title = "Recent Posts"

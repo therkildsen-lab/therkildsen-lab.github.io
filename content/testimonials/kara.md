@@ -3,5 +3,5 @@
 name = "Kara Jones"
 position = "Post Doc"
 image = '/images/kara.jpg'
-blurb = "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis studiis semper."
+blurb = "Kara’s background is in amphibian/reptile phylogenetics, population genetics, and phylogeography. She’s currently uses metagenomics to identify zooplankton and cyanobacteria from eDNA, and developing an epigenetic age prediction model for sturgeon."
 +++
