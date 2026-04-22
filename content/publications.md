@@ -5,6 +5,7 @@ template = "custom_md.html"
 block = "page-heading"
 title = "Lab Publications"
 +++
+Full list available [here](https://scholar.google.com/citations?hl=en&user=MT9QVi4AAAAJ&view_op=list_works&sortby=pubdate)
 
 - Akopyan M, Jacobs A, Rick JA, Wilder AP, Baumann ZA, Conover D, Baumann H, Therkildsen NO. **Multiple chromosomal inversions modulate continuous local adaptation along a steep thermal cline.** 2026. Science. [10.1126/science.ady6774](https://doi.org/10.1126/science.ady6774)
 - Ortiz-Pachar JD, Ramírez-González J, Moity N, Andrade-Vera S, Rivadeneira WD, Therkildsen NO. **A chromosome-level genome assembly for the brown sea cucumber from the Galápagos Islands, Isostichopus fuscus.** 2025. Scientific Data. [10.1038/s41597-025-06422-6](https://doi.org/10.1038/s41597-025-06422-6)
