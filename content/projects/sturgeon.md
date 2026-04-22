@@ -2,7 +2,7 @@
 date = "2026-01-06 07:30:35"
 draft = false
 title = "Atlantic Sturgeon"
-description = "Methylation-based age prediction Atlantic Sturgeon"
+description = "Methylation-based age prediction in Atlantic Sturgeon"
 [taxonomies]
 tags = ["conservation"]
 [extra]
