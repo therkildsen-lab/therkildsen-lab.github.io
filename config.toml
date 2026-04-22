@@ -22,12 +22,12 @@ taxonomies = [
 
 [extra]
 logo_image = "images/TherkildsenLogo.png"
-social_media_share_image = "/images/01.jpg"
+social_media_share_image = "images/TherkildsenLogo.png"
 disqus_identifier = ""
 google_analytics = ""
 twitter_handle = ""
 
-author_image = '/images/avatar.jpg'
+author_image = ''
 
 navigation = [
     { url = "$BASE_URL", title = "Home" },
@@ -40,24 +40,11 @@ navigation = [
 social_icons = []
 date_format = "%d %b %Y"
 language_direction = "auto"
-keywords = ["keyword1", "keyword2", "keyword3"]
-
-[extra.newsletter]
-newsletter_title = "Join my mailing list"
-newsletter_identifier = ""
-newsletter_button = "Subscribe"
-newsletter_description = "Get inspiration, updates and, cool stuff!"
+keywords = ["conservation", "genomics", "marine"]
 
 [extra.footer]
-menu = [
-    { url = "$BASE_URL", title = "Home" },
-    { url = "$BASE_URL/projects/", title = "Projects" },
-    { url = "$BASE_URL/elements/", title = "Elements" },
-    { url = "$BASE_URL/about/", title = "About" },
-    { url = "$BASE_URL/posts/", title = "Blog" },
-]
-#copyright = ""
-
+menu = []
+#copyright = "Therkildsen Lab"
 
 [[extra.content_blocks]]
 block = "hero"
@@ -65,7 +52,7 @@ title = "Therkildsen Lab"
 description_html = "We study how marine species adapt to their environment and respond to altered conditions caused by selective harvest, climate change, or other anthropogenic pressures in a rapidly changing world. We do that using novel sequencing approaches for population genomic studies of non-model organisms."
 image = "/images/labphoto.jpg"
 image_alt = "Group lab photo"
-cta_button_link = "#contact"
+cta_button_link = "contact"
 cta_button = "Get in touch"
 works_button_link = "#projects"
 works_button = "See our work"
