@@ -1,0 +1,1 @@
+This repository controls the lab website, which uses the Rust-based [Zola](https://www.getzola.org/) static-site generator, combined with the [Vonge](https://www.getzola.org/themes/vonge/) theme/template. It uses a GitHub Action (`.github/workflows/deploy.yml`) to automatically rebuild and publish the website when changed are pushed to `main`.

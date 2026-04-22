@@ -20,7 +20,7 @@ taxonomies = [
     { name = "tags", feed = true},
 ]
 
-[extra]
+[extra]paberr.github.io/vonge-zola-theme/
 logo_image = "images/TherkildsenLogo.png"
 social_media_share_image = "/images/01.jpg"
 disqus_identifier = ""
