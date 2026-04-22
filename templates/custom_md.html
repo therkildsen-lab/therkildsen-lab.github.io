@@ -1,0 +1,15 @@
+{% import "components/index.html" as components %}
+{% extends "base.html" %}
+{% block main %}
+{% if page.extra.content_blocks %}
+{{ components::content_blocks(data = page.extra.content_blocks) }}
+
+<div class="container">
+
+    <div class="page animate">
+        {{ page.content | safe }}
+    </div>
+</div>
+
+{% endif %}
+{% endblock %}

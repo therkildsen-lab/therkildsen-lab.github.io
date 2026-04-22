@@ -11,14 +11,11 @@ ORCID_API_URL = f"https://pub.orcid.org/v3.0/{ORCID_ID}/works"
 listlink = '<p>Full list available <a href="https://scholar.google.com/citations?hl=en&user=MT9QVi4AAAAJ&view_op=list_works&sortby=pubdate">here</p>'
 MD_HEADER = f"""+++
 title = "Publications"
-template = "custom_page.html"
+template = "custom_md.html"
 [[extra.content_blocks]]
 block = "page-heading"
 title = "Lab Publications"
-[[extra.content_blocks]]
-block = "content"
-content_html = \"\"\"{listlink}\n
-"""
++++\n\n"""
 
 def fetch_works():
     headers = {"Accept": "application/json"}
@@ -116,12 +113,11 @@ def build_publications_page(page_entries):
         f.write(MD_HEADER)
         for e in page_entries:
             authors = f"{e['authors']}. " if e['authors'] else ""
-            title_bold = f"<strong>{e['title']}.</strong> " if e['title'] else ""
+            title_bold = f"**{e['title']}.** " if e['title'] else ""
             year = f"{e['year']}. " if e['year'] else ""
             journal = f"{e['journal']}. " if e['journal'] else ""
-            doi_link = f'<a href="{e["doi_url"]}">{e["doi"]}</a>' if e['doi'] else ""
-            f.write(f"<p>- {authors}{title_bold}{year}{journal}{doi_link}</p>\n")
-        f.write("\"\"\"\n\n+++")
+            doi_link = f'[{e["doi"]}]({e["doi_url"]})' if e['doi'] else ""
+            f.write(f"- {authors}{title_bold}{year}{journal}{doi_link}\n")
 
 if __name__ == "__main__":
     works = fetch_works()
