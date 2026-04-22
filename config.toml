@@ -27,12 +27,13 @@ disqus_identifier = ""
 google_analytics = ""
 twitter_handle = ""
 
-author_image = ''
+author_image = 'images/TherkildsenLogo.png'
 
 navigation = [
     { url = "$BASE_URL", title = "Home" },
     { url = "$BASE_URL/about", title = "About" },
     { url = "$BASE_URL/projects", title = "Projects" },
+    { url = "$BASE_URL/publications", title = "Publications" },
     { url = "$BASE_URL/posts", title = "Posts" },
     { url = "$BASE_URL/codeofconduct", title = "Code of Conduct" },
     { url = "$BASE_URL/contact", title = "Get in Touch" }

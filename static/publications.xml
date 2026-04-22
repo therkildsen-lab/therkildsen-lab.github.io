@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Lab Publications</title>
+  <id>https://orcid.org/0000-0002-6591-591X</id>
+  <updated>2026-04-22T18:44:26.393671+00:00</updated>
+  <link href="https://orcid.org/0000-0002-6591-591X" rel="alternate" />
+  <entry>
+    <title>Multiple chromosomal inversions modulate continuous local adaptation along a steep thermal cline</title>
+    <id>https://orcid.org/0000-0002-6591-591X/work/207416743</id>
+    <updated>2026-01-01T00:00:00+00:00</updated>
+    <link href="https://doi.org/10.1126/science.ady6774" rel="alternate" />
+  </entry>
+  <entry>
+    <title>A chromosome-level genome assembly for the brown sea cucumber from the Galápagos Islands, Isostichopus fuscus</title>
+    <id>https://orcid.org/0000-0002-6591-591X/work/200027056</id>
+    <updated>2025-01-01T00:00:00+00:00</updated>
+    <link href="https://doi.org/10.1038/s41597-025-06422-6" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Do tributary dams pose a greater conservation threat than main-stem dams for nonmigratory freshwater fishes?</title>
+    <id>https://orcid.org/0000-0002-6591-591X/work/192285947</id>
+    <updated>2025-01-01T00:00:00+00:00</updated>
+    <link href="https://doi.org/10.1093/tafafs/vnaf031" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Genome‐Wide Population Structure in a Marine Keystone Species, the European Flat Oyster (Ostrea edulis)</title>
+    <id>https://orcid.org/0000-0002-6591-591X/work/171647126</id>
+    <updated>2025-01-01T00:00:00+00:00</updated>
+    <link href="https://doi.org/10.1111/mec.17573" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Genetic Differentiation is Constrained to Chromosomal Inversions and Putative Centromeres in Locally Adapted Populations With Higher Gene Flow</title>
+    <id>https://orcid.org/0000-0002-6591-591X/work/183305090</id>
+    <updated>2025-01-01T00:00:00+00:00</updated>
+    <link href="https://doi.org/10.1093/molbev/msaf092" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Harpy: a pipeline for processing haplotagging linked-read data</title>
+    <id>https://orcid.org/0000-0002-6591-591X/work/185351561</id>
+    <updated>2024-01-01T00:00:00+00:00</updated>
+    <link href="https://doi.org/10.1093/bioadv/vbaf133" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Genetic differentiation is constrained to chromosomal inversions and putative centromeres in locally adapted populations with higher gene flow</title>
+    <id>https://orcid.org/0000-0002-6591-591X/work/170095297</id>
+    <updated>2024-01-01T00:00:00+00:00</updated>
+    <link href="https://doi.org/10.1101/2024.10.20.619329" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Temperature-dependent gene regulatory divergence underlies local adaptation with gene flow in the Atlantic silverside</title>
+    <id>https://orcid.org/0000-0002-6591-591X/work/155890085</id>
+    <updated>2024-01-01T00:00:00+00:00</updated>
+    <link href="https://doi.org/10.1093/evolut/qpae049" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Advancing One Health in Urban Seafood Markets: A Genetic and Social Analysis of Dried Sea Cucumber in Three New York City Chinatowns</title>
+    <id>https://orcid.org/0000-0002-6591-591X/work/158426968</id>
+    <updated>2024-01-01T00:00:00+00:00</updated>
+    <link href="https://doi.org/10.3390/su16093589" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Batch effects in population genomic studies with low‐coverage whole genome sequencing data: Causes, detection and mitigation</title>
+    <id>https://orcid.org/0000-0002-6591-591X/work/104476511</id>
+    <updated>2022-01-01T00:00:00+00:00</updated>
+    <link href="https://doi.org/10.1111/1755-0998.13559" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Comparative linkage mapping uncovers recombination suppression across massive chromosomal inversions associated with local adaptation in Atlantic silversides</title>
+    <id>https://orcid.org/0000-0002-6591-591X/work/111341121</id>
+    <updated>2022-01-01T00:00:00+00:00</updated>
+    <link href="https://doi.org/10.1111/mec.16472" rel="alternate" />
+  </entry>
+  <entry>
+    <title>A beginner's guide to low‐coverage whole genome sequencing for population genomics</title>
+    <id>https://orcid.org/0000-0002-6591-591X/work/96847161</id>
+    <updated>2021-01-01T00:00:00+00:00</updated>
+    <link href="https://doi.org/10.1111/mec.16077" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Chromosome-Level Assembly of the Atlantic Silverside Genome Reveals Extreme Levels of Sequence Diversity and Structural Genetic Variation</title>
+    <id>https://orcid.org/0000-0002-6591-591X/work/95750018</id>
+    <updated>2021-01-01T00:00:00+00:00</updated>
+    <link href="https://doi.org/10.1093/gbe/evab098" rel="alternate" />
+  </entry>
+  <entry>
+    <title>GenBank’s reliability is uncertain for biodiversity researchers seeking species-level assignment for eDNA</title>
+    <id>https://orcid.org/0000-0002-6591-591X/work/84052677</id>
+    <updated>2020-01-01T00:00:00+00:00</updated>
+    <link href="https://doi.org/10.1073/pnas.2007421117" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Building a global genomics observatory: Using GEOME (the Genomic Observatories Metadatabase) to expedite and improve deposition and retrieval of genetic data and metadata for biodiversity research</title>
+    <id>https://orcid.org/0000-0002-6591-591X/work/81665125</id>
+    <updated>2020-01-01T00:00:00+00:00</updated>
+    <link href="https://doi.org/10.1111/1755-0998.13269" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Chromosome-level assembly of the Atlantic silverside genome reveals extreme levels of sequence diversity and structural genetic variation</title>
+    <id>https://orcid.org/0000-0002-6591-591X/work/82614543</id>
+    <updated>2020-01-01T00:00:00+00:00</updated>
+    <link href="https://doi.org/10.1101/2020.10.27.357293" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Footprints of local adaptation span hundreds of linked genes in the Atlantic silverside genome</title>
+    <id>https://orcid.org/0000-0002-6591-591X/work/79462087</id>
+    <updated>2020-01-01T00:00:00+00:00</updated>
+    <link href="https://doi.org/10.1002/evl3.189" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Expanding the feasibility of fish and wildlife assessments with close‐kin mark–recapture</title>
+    <id>https://orcid.org/0000-0002-6591-591X/work/81930392</id>
+    <updated>2020-01-01T00:00:00+00:00</updated>
+    <link href="https://doi.org/10.1002/ecs2.3259" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Effects of Quantitative Trait Architecture on Detection Power in Short-Term Artificial Selection Experiments</title>
+    <id>https://orcid.org/0000-0002-6591-591X/work/79758389</id>
+    <updated>2020-01-01T00:00:00+00:00</updated>
+    <link href="https://doi.org/10.1534/g3.120.401287" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Contrasting genomic shifts underlie parallel phenotypic evolution in response to fishing</title>
+    <id>https://orcid.org/0000-0002-6591-591X/work/60121830</id>
+    <updated>2019-01-01T00:00:00+00:00</updated>
+    <link href="https://doi.org/10.1126/science.aaw7271" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Excavating ghost footprints and tangled trees from modern genomes</title>
+    <id>https://orcid.org/0000-0002-6591-591X/work/60211076</id>
+    <updated>2019-01-01T00:00:00+00:00</updated>
+    <link href="https://doi.org/10.1111/mec.15141" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Effects of Quantitative Trait Architecture on Detection Power in Artificial Selection Experiments</title>
+    <id>https://orcid.org/0000-0002-6591-591X/work/58526675</id>
+    <updated>2019-01-01T00:00:00+00:00</updated>
+    <link href="https://doi.org/10.1101/672683" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Range‐wide genomic data synthesis reveals transatlantic vicariance and secondary contact in Atlantic cod</title>
+    <id>https://orcid.org/0000-0002-6591-591X/work/50897042</id>
+    <updated>2018-01-01T00:00:00+00:00</updated>
+    <link href="https://doi.org/10.1002/ece3.4672" rel="alternate" />
+  </entry>
+</feed>
