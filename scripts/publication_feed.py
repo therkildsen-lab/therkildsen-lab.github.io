@@ -8,14 +8,15 @@ import xml.etree.ElementTree as ET
 ORCID_ID = "0000-0002-6591-591X"
 YOUR_EMAIL = "pd348@cornell.edu"      # polite identifier for the doi.org API
 ORCID_API_URL = f"https://pub.orcid.org/v3.0/{ORCID_ID}/works"
-listlink = '<p>Full list available <a href="https://scholar.google.com/citations?hl=en&user=MT9QVi4AAAAJ&view_op=list_works&sortby=pubdate">here</p>'
 MD_HEADER = f"""+++
 title = "Publications"
 template = "custom_md.html"
 [[extra.content_blocks]]
 block = "page-heading"
 title = "Lab Publications"
-+++\n\n"""
++++
+Full list available [here](https://scholar.google.com/citations?hl=en&user=MT9QVi4AAAAJ&view_op=list_works&sortby=pubdate)
+\n"""
 
 def fetch_works():
     headers = {"Accept": "application/json"}
