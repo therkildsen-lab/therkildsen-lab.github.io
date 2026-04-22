@@ -1,15 +1,14 @@
 +++
-date = "2021-01-08 06:20:35"
+date = "2026-01-06 07:30:35"
 draft = false
-title = "Quiet Lake"
-description = "Photography"
-
+title = "Sturgeon STUFF"
+description = "XYZ of endangered Hudson River sturgeon"
 [taxonomies]
-tags = ["travel", "photography", "nature", "project"]
-
+tags = ["conservation"]
 [extra]
-image = "/images/project-7.jpg"
+image = '/images/sturgeon.jpg'
 +++
+
 In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem.
 
 ![Palm trees](/images/image-example-3.jpg)
