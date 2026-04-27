@@ -1,12 +1,12 @@
 +++
 date = "2021-01-10 05:20:35"
 draft = false
-title = "lcWGS"
-description = "Low-Coverage Whole Genome Sequencing"
+title = "Low-Coverage Whole Genome Sequencing"
+description = "Trading sequencing depth for more samples and more data"
 [taxonomies]
 tags = ["project"]
 [extra]
-image = '/images/lcwgs.png'
+image = '/images/lcwgs2.png'
 +++
 
 Despite major declines in DNA sequencing costs, researchers still have to balance three trade-offs: how much of the
@@ -27,3 +27,6 @@ Low-coverage whole-genome sequencing (lcWGS) offers a middle ground. By sequenci
 the entire genome, it captures broad genomic information while retaining individual identities. This approach sacrifices
 confidence in individual genotypes but gains wider genome coverage and often allows larger sample sizes at a comparable
 cost to RAD-seq or Pool-seq.
+
+![lcWGS vs others](/images/lcwgsvs.jpg)
+_lcWGS vs other methods_
