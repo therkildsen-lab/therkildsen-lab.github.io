@@ -2,10 +2,12 @@
 date = "2026-04-27 15:01:35"
 title = "We have a new website!"
 description = "Procrastination has its benefits"
+authors = ["Pavel Dimens"]
 [taxonomies]
 tags = ["misc"]
 [extra]
 image = '/images/website.png'
+author_image = "/images/pavel.jpg"
 +++
 
 Our previous website had its time in the sun and we're grateful for it being the public face of our research group,

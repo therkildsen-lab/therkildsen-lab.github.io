@@ -37,7 +37,6 @@ navigation = [
     { url = "$BASE_URL/publications", title = "Publications" },
     { url = "$BASE_URL/posts", title = "Posts" },
     { url = "$BASE_URL/codeofconduct", title = "Code of Conduct" },
-    { url = "$BASE_URL/contact", title = "Get in Touch" }
 ]
 social_icons = []
 date_format = "%d %b %Y"
