@@ -2,19 +2,15 @@
 date = "2025-01-03 08:00:35"
 draft = false
 title = "Harmful Algal Blooms"
-description = "Project description here"
+description = "From Blooms to Decisions: Real-Time Genomic Early Warning for Toxic Cyanobacteria in the Hudson River"
 [taxonomies]
 tags = ["eDNA"]
 [extra]
 image = '/images/hab.webp'
 +++
 
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem.
+Cyanobacterial harmful algal blooms (cyanoHABs) have become more prevalent in New York State waters in the face of increasing nutrient loads and water temperatures, including a recent bloom of unprecedented magnitude and extent in the Hudson River in August/September 2025. CyanoHABs produce toxins that can contaminate drinking water sources and bioaccumulate in shellfish and fish. Rapid detection solutions for cyanoHABs could provide managers sufficient early warning to implement mitigation strategies that limit bloom toxicity, but most current monitoring methods lack species-level resolution for many cyanobacteria, cannot be used to identify whether a strain can produce toxins, and can have a long lag time between sample collection and results.
 
-![Palm trees](/images/image-example-3.jpg)
+For this project, we aim to develop a real-time monitoring solution for cyanoHABs in the Hudson River using Oxford Nanopore MinION long-read sequencing technology to identify microbial strains in the field. By leveraging existing long-term monitoring efforts, we will also produce detailed time-series data linking microbial communities to environmental conditions, helping identify predictors of bloom formation and toxicity. Ultimately, this work will support more proactive, evidence-based management of water quality while creating opportunities for public engagement through accessible demonstrations of real-time environmental genomics.
 
-Praeteritis, inquit, gaudeo. Praeteritis, inquit, gaudeo. Quod, inquit, quamquam voluptatibus quibusdam est saepe iucundius, tamen expetitur propter voluptatem. Scientiam pollicentur, quam non erat mirum sapientiae cupido patria esse cariorem. Non quaeritur autem quid naturae tuae consentaneum sit, sed quid disciplinae. Ita ne hoc quidem modo paria peccata sunt. Ita prorsus, inquam; Nunc ita separantur, ut disiuncta sint, quo nihil potest esse perversius. Virtutibus igitur rectissime mihi videris et ad consuetudinem nostrae orationis.
-
-![Sea](/images/image-example-4.jpg)
-
-Defecerit Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit? Quae quidem sapientes sequuntur duce natura tamquam videntes; Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu. Sunt omnia Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sit conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles servari.
+![cyanoHAB monitoring workflow](/images/hab_workflow.png)
