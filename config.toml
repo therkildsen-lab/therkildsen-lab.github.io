@@ -32,6 +32,7 @@ author_image = 'images/TherkildsenLogo.png'
 navigation = [
     { url = "$BASE_URL", title = "Home" },
     { url = "$BASE_URL/about", title = "About" },
+    { url = "$BASE_URL/people", title = "People" },
     { url = "$BASE_URL/projects", title = "Projects" },
     { url = "$BASE_URL/publications", title = "Publications" },
     { url = "$BASE_URL/posts", title = "Posts" },
@@ -57,11 +58,6 @@ cta_button_link = "contact"
 cta_button = "Get in touch"
 works_button_link = "#projects"
 works_button = "See our work"
-[[extra.content_blocks]]
-block = "testimonials-section"
-title = "Current Members"
-description_html = ""
-show_testimonials = true
 [[extra.content_blocks]]
 block = "projects-section"
 title = "Latest Projects"

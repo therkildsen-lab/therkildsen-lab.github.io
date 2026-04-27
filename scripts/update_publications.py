@@ -116,10 +116,12 @@ def build_publications_page(page_entries):
         for e in page_entries:
             authors = f"{e['authors']}. " if e['authors'] else ""
             title_bold = f"**{e['title']}.** " if e['title'] else ""
+            title_bold.replace("..", ".")
             year = f"{e['year']}. " if e['year'] else ""
             journal = f"{e['journal']}. " if e['journal'] else ""
             doi_link = f'[{e["doi"]}]({e["doi_url"]})' if e['doi'] else ""
-            f.write(f"- {authors}{title_bold}{year}{journal}{doi_link}\n")
+            if doi_link:
+                f.write(f"- {authors}{title_bold}{year}{journal}{doi_link}\n")
 
 
 if __name__ == "__main__":
