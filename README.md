@@ -32,7 +32,8 @@ zola serve
 
 
 ## Organization
-- `scripts/publication_feed.py`: python script to use the ORCID API to get Nina's publications from her ORCID account and and write a new `publications.md` file. Automatically used when website is built.
+- `scripts/update_publications.py`: python script to use the Semantic Scholar API to get Nina's publications and and write a new `publications.md` file.
+  - `.github/workflows/update-publications.yml` runs this once every 4 months, so manual intervention is unlikely
 - `themes/` contains the site theme `vonge`
 - `templates/` contains the modified versions of the base `vonge` template to remove some stuff like the newsletter, and adds a `custom_md.html` template for allowing basic markdown pages (like `publications.md`)
 - `content/posts` is the home of blog/news posts
