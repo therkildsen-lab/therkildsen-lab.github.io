@@ -1,12 +1,12 @@
 {% import "components/page-heading.html" as page_heading %}
-{% import "components/personnel-card.html" as testimonial_card %}
+{% import "components/personnel-card.html" as personnel_card %}
 {% extends "base.html" %}
 {% block main %}
 <div class="container">
 
     {{ page_heading::page_heading(taxonomies = page.taxonomies, title = page.title, description = page.description) }}
 
-    {{ testimonial_card::testimonial_card(data = page) }}
+    {{ personnel_card::personnel_card(data = page) }}
 
 </div>
 

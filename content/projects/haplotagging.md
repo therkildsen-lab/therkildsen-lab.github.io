@@ -1,5 +1,5 @@
 +++
-date = "2021-01-10 05:20:35"
+date = "2026-01-19 05:20:35"
 draft = false
 title = "Haplotag linked-reads"
 description = "A low-cost linked-read technology for the masses"

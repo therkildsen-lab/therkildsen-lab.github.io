@@ -50,6 +50,7 @@ title = "People of the Lab"
   <img src="/images/heath.jpg"
        style="float: right; height: 250px; width: auto; margin: 0 0 1rem 1.5rem; border-radius: 6px;" />
   <p><strong>Ph.D. Candidate</strong><br>Heath is interested in marine biomonitoring and developing methods to overcome the difficulties in sampling biodiversity in regions of the world with reduced research infrastructure. He is currently investigating environmental DNA (eDNA) metabarcoding in marine systems as a tool for the detection of continental shelf biodiversity.
+</div>
 
   ----
 ### Previous Members

@@ -1,5 +1,5 @@
 +++
-date = "2025-01-03 08:00:35"
+date = "2026-01-01 07:30:35"
 draft = false
 title = "American Shad Invasion Genomics"
 description = "Studying rapid evolution in successful invaders"
