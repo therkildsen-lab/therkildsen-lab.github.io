@@ -17,4 +17,7 @@ Understanding the genetic dynamics of biological invasions can address key evolu
 
 This project leverages cutting-edge linked-read sequencing (["Haplotagging"](https://therkildsen-lab.github.io/projects/haplotagging/)) to study the evolution of invasive populations of American shad (*Alosa sapidissima*). The American shad is a migratory fish native to the Atlantic coast of North America that was transplanted to the Pacific in the late 19th century. In the 150 years post-introduction, American shad have experienced remarkable success, spreading across multiple Pacific coastal rivers and outnumbering native salmon during annual migrations.
 
+![Alt text](/images/Shad Expansion Map_EastCoast_nosampling-01.png)
+*Introduction history of American shad from its native range (yellow) to its current invasive range (orange) including years of first observation at various locations (yellow dots)*
+
 By leveraging linked-read sequencing, we have generated phased whole-genome data from individuals from both native Atlantic and invasive Pacific populations to scan for signatures of selection, identify genomic structural variants, and conduct demographic inference. By doing so, we aim to reconstruct the evolutionary history of these invaders and identify genomic regions under selection that underlie invasion success.
