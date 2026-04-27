@@ -1,0 +1,38 @@
+name: Update Publications
+
+on:
+  schedule:
+    - cron: "0 0 1 */4 *"  # Runs at midnight on the 1st of every 4th month
+  workflow_dispatch:         # Allows manual trigger from the Actions tab
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  update-publications:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run publications script
+        run: python scripts/update_publications.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add content/publications.md
+          git diff --cached --quiet || git commit -m "chore: update publications list"
+          git push
