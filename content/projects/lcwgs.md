@@ -6,7 +6,7 @@ description = "Trading sequencing depth for more samples and more data"
 [taxonomies]
 tags = ["project"]
 [extra]
-image = '/images/lcwgs2.png'
+image = '/images/lcwgs.png'
 +++
 
 Despite major declines in DNA sequencing costs, researchers still have to balance three trade-offs: how much of the
