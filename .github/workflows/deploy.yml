@@ -21,6 +21,8 @@ jobs:
         uses: actions/checkout@v6
         with:
           submodules: true
+      - name: Replace favicon
+        run: cp -f static/favicon.ico themes/vonge/static/favicon.ico 
       - name: Build Zola + upload Pages artifact
         uses: getzola/github-pages@066755243e69f508fd1a74739fbf1a65f656c790
         with:
