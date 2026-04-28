@@ -1,7 +1,7 @@
 +++
 date = "2026-01-01 07:30:35"
 draft = false
-title = "American Shad Invasion Genomics"
+title = "Invasion Genomics"
 description = "Studying rapid evolution in successful invaders"
 [taxonomies]
 tags = ["adaptation", "invasion ecology"]
