@@ -22,7 +22,7 @@
     <h2 style="text-align: center;">Current Members</h2>
     {% set section = get_section(path="personnel/current/_index.md") %}
     {% for page in section.pages %}
-    {% if page.extra.position == "Post Doctoral Scholar" %}
+    {% if page.extra.position == "Postdoctoral Scholar" %}
     <div style="overflow: hidden;">
         <img src="{{ get_url(path=page.extra.image) }}"
             style="float: right; height: 250px; width: auto; margin: 0 0 1rem 1.5rem; border-radius: 16px;" />
