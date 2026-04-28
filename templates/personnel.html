@@ -43,7 +43,7 @@
 <div class="container">
     {% set section = get_section(path="personnel/current/_index.md") %}
     {% for page in section.pages %}
-    {% if page.extra.position == "Ph.D. Candidate" %}
+    {% if page.extra.position == "PhD Candidate" %}
     <div style="overflow: hidden;">
         <img src="{{ get_url(path=page.extra.image) }}"
             style="float: right; height: 250px; width: auto; margin: 0 0 1rem 1.5rem; border-radius: 16px;" />
@@ -64,7 +64,7 @@
 <div class="container">
     {% set section = get_section(path="personnel/current/_index.md") %}
     {% for page in section.pages %}
-    {% if page.extra.position == "Ph.D. Student" %}
+    {% if page.extra.position == "PhD Student" %}
     <div style="overflow: hidden;">
         <img src="{{ get_url(path=page.extra.image) }}"
             style="float: right; height: 250px; width: auto; margin: 0 0 1rem 1.5rem; border-radius: 16px;" />
@@ -83,8 +83,29 @@
 </div>
 
 <div class="container">
+    {% set section = get_section(path="personnel/current/_index.md") %}
+    {% for page in section.pages %}
+    {% if page.extra.position == "MS Student" %}
+    <div style="overflow: hidden;">
+        <img src="{{ get_url(path=page.extra.image) }}"
+            style="float: right; height: 250px; width: auto; margin: 0 0 1rem 1.5rem; border-radius: 16px;" />
+        <h2>{{ page.extra.name }}</h2>
+        <p><strong>{{ page.extra.position}}</strong>
+            {% if page.extra.link %}
+            <a href="{{ page.extra.link }}"
+                style="display: inline-block; padding: 0 0.2rem; background-color: #1495a7; color: white; text-decoration: none; border-radius: 4px;">Link</a>
+            {% endif %}
+            <br>
+            {{ page.extra.blurb }}
+        </p>
+    </div>
+    {% endif %}
+    {% endfor %}
+</div>
+
+<div class="container">
 <hr>
-    <h2 style="text-align: center;">Previous Members</h2>
+    <h2 style="text-align: center;">Past Members</h2>
 
     {% set section = get_section(path="personnel/former/_index.md") %}
     {% for page in section.pages %}
