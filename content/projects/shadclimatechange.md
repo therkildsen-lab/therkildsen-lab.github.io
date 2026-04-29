@@ -6,6 +6,7 @@ description = "Describing subpopulation range shifts of a migratory fish"
 [taxonomies]
 tags = ["gene flow", "climate change"]
 [extra]
+involved = ["Pavel Dimens"]
 image = '/images/shad.jpg'
 +++
 

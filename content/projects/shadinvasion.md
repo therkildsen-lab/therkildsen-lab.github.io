@@ -6,6 +6,7 @@ description = "Studying rapid evolution in successful invaders"
 [taxonomies]
 tags = ["adaptation", "invasion ecology"]
 [extra]
+involved = ["Azwad Iqbal"]
 image = '/images/shad2.jpg'
 +++
 

@@ -6,6 +6,7 @@ description = "Methylation-based age prediction in Atlantic Sturgeon"
 [taxonomies]
 tags = ["conservation"]
 [extra]
+involved = ["Kara Jones"]
 image = '/images/sturgeon.jpg'
 +++
 

@@ -6,6 +6,38 @@
 
     {{ page_heading::page_heading(taxonomies = page.taxonomies, title = page.title, description = page.description) }}
 
+{% if page.extra.involved %}
+{% set current = get_section(path="personnel/current/_index.md") %}
+{% set alumni = get_section(path="personnel/alumni/_index.md") %}
+
+    <div style="display: flex; align-items: center; justify-content: center; gap: 16px; flex-wrap: wrap;">
+        {% for person_name in page.extra.involved %}
+        {% set_global person_path = "" %}
+
+        {% for p in current.pages %}
+        {% if p.extra.name == person_name %}
+        {% set_global person_path = "personnel/current/" ~ p.slug ~ ".md" %}
+        {% endif %}
+        {% endfor %}
+
+        {% if person_path == "" %}
+        {% for p in alumni.pages %}
+        {% if p.extra.name == person_name %}
+        {% set_global person_path = "personnel/alumni/" ~ p.slug ~ ".md" %}
+        {% endif %}
+        {% endfor %}
+        {% endif %}
+
+        {% if person_path != "" %}
+        {% set person_page = get_page(path=person_path) %}
+        <img src="{{ person_page.extra.image }}" alt="{{ person_page.extra.name }}"
+            style="border-radius: 50%; height: 50px; width: 50px; object-fit: cover;">
+        <span>{{ person_page.extra.name }}</span>
+        {% endif %}
+        {% endfor %}
+    </div><br>
+    {% endif %}
+
     <div class="page animate">
         {{ page.content | safe }}
     </div>
@@ -20,7 +52,7 @@
                 </div>
             </a>
         </div>
-        {% endif %}
+    {% endif %}
 </div>
 
 {% endblock %}

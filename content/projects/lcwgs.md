@@ -4,8 +4,9 @@ draft = false
 title = "Low-Coverage Whole Genome Sequencing"
 description = "Trading sequencing depth for more samples and more data"
 [taxonomies]
-tags = ["project"]
+tags = ["technology"]
 [extra]
+involved = ["Runyang 'Nicolas' Lou"]
 image = '/images/lcwgs.png'
 +++
 

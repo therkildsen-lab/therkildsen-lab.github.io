@@ -6,6 +6,7 @@ description = "How silversides X Y Z"
 [taxonomies]
 tags = ["evolution", "inversions"]
 [extra]
+involved = ["Maria Akopyan", "Arne Jacobs", "Jessi Rick", "Áki Jarl Láruson"]
 image = '/images/silverside.jpg'
 +++
 

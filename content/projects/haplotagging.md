@@ -6,6 +6,7 @@ description = "A low-cost linked-read technology for the masses"
 [taxonomies]
 tags = ["technology"]
 [extra]
+involved = ["Azwad Iqbal", "Pavel Dimens"]
 image = '/images/haplotagging.jpg'
 +++
 

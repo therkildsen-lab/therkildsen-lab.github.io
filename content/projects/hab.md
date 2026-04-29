@@ -6,6 +6,7 @@ description = "From Blooms to Decisions: Real-Time Genomic Early Warning for Tox
 [taxonomies]
 tags = ["eDNA"]
 [extra]
+involved = ["Kara Jones"]
 image = '/images/hab.webp'
 +++
 

@@ -105,9 +105,9 @@
 
 <div class="container">
 <hr>
-    <h2 style="text-align: center;">Past Members</h2>
+    <h2 style="text-align: center;">Lab Alumni</h2>
 
-    {% set section = get_section(path="personnel/former/_index.md") %}
+    {% set section = get_section(path="personnel/alumni/_index.md") %}
     {% for page in section.pages %}
     <div style="overflow: hidden;">
         <img src="{{ get_url(path=page.extra.image) }}"
