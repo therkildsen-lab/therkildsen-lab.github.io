@@ -2,11 +2,11 @@
 date = "2021-01-02 08:20:35"
 draft = false
 title = "Silverside Adaptation"
-description = "How silversides X Y Z"
+description = "Silversides are small but their genomes are mighty interesting"
 [taxonomies]
-tags = ["evolution", "inversions"]
+tags = ["evolution", "inversions", "silverside"]
 [extra]
-involved = ["Maria Akopyan", "Arne Jacobs", "Jessi Rick", "Áki Jarl Láruson"]
+involved = ["Maria Akopyan", "Arne Jacobs", "Jessi Rick", "Áki Jarl Láruson", "Emma Arboleda"]
 image = '/images/silverside.jpg'
 +++
 

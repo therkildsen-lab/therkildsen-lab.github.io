@@ -4,7 +4,7 @@ draft = false
 title = "Invasion Genomics"
 description = "Studying rapid evolution in successful invaders"
 [taxonomies]
-tags = ["adaptation", "invasion ecology"]
+tags = ["adaptation", "invasion ecology", "shad"]
 [extra]
 involved = ["Azwad Iqbal"]
 image = '/images/shad2.jpg'

@@ -1,10 +1,10 @@
 +++
-date = "2026-01-03 07:40:35"
+date = "2021-02-03 07:40:35"
 draft = false
 title = "Climate-driven range shifts"
 description = "Describing subpopulation range shifts of a migratory fish"
 [taxonomies]
-tags = ["gene flow", "climate change"]
+tags = ["gene flow", "climate change", "shad"]
 [extra]
 involved = ["Pavel Dimens"]
 image = '/images/shad.jpg'
