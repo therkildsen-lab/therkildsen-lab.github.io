@@ -17,4 +17,4 @@ In Galápagos, wild brown sea cucumbers are legally harvested under a strictly r
 
 Our aim is to help managers to track genetic diversity across populations, detect early signs of stress linked to overfishing or climate change, and identify areas where populations may be at risk. This information can be used to set fishing limits informed not only by population size, but also by genetic diversity and adaptive potential.
 
-
+![Sea Cucumber sampling 2](/images/sea_cuc_sampling_2.png)
