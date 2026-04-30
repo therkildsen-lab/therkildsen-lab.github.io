@@ -2,7 +2,7 @@
 date = "2020-01-09 05:20:35"
 draft = false
 title = "Brown Sea Cucumber"
-description = "Genomics of the endangered brown sea cucumber (*Isostichopus fuscus*) advances marine conservation in the Galápagos"
+description = "Genomics of the endangered brown sea cucumber advances marine conservation in the Galápagos"
 [taxonomies]
 tags = ["conservation"]
 [extra]
