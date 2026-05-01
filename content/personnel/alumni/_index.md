@@ -1,3 +1,3 @@
 +++
-page_template = "personnel.html"
+page_template = "people.html"
 +++

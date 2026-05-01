@@ -7,9 +7,9 @@
 <div class="container">
     {% set page = get_page(path="personnel/current/nina.md") %}
     <div style="overflow: hidden;">
+        <h2>{{ page.extra.name }}</h2>
         <img src="{{ get_url(path=page.extra.image) }}"
             style="float: left; height: 300px; width: auto; margin: 0 1rem 1.5rem 0 ; border-radius: 16px;" />
-        <h2>{{ page.extra.name }}</h2>
         <p><strong>{{ page.extra.position}}</strong>
             <br>
             {{ page.extra.blurb }}
@@ -24,9 +24,9 @@
     {% for page in section.pages %}
     {% if page.extra.position == "Postdoc" %}
     <div style="overflow: hidden;">
+        <h2>{{ page.extra.name }}</h2>
         <img src="{{ get_url(path=page.extra.image) }}"
             style="float: right; height: 250px; width: auto; margin: 0 0 1rem 1.5rem; border-radius: 16px;" />
-        <h2>{{ page.extra.name }}</h2>
         <p><strong>{{ page.extra.position}}</strong>
         {% if page.extra.link %}
         <a href="{{ page.extra.link }}"
@@ -45,9 +45,9 @@
     {% for page in section.pages %}
     {% if page.extra.position == "PhD Candidate" %}
     <div style="overflow: hidden;">
+        <h2>{{ page.extra.name }}</h2>
         <img src="{{ get_url(path=page.extra.image) }}"
             style="float: right; height: 250px; width: auto; margin: 0 0 1rem 1.5rem; border-radius: 16px;" />
-        <h2>{{ page.extra.name }}</h2>
         <p><strong>{{ page.extra.position}}</strong>
         {% if page.extra.link %}
         <a href="{{ page.extra.link }}"
@@ -66,9 +66,9 @@
     {% for page in section.pages %}
     {% if page.extra.position == "PhD Student" %}
     <div style="overflow: hidden;">
+        <h2>{{ page.extra.name }}</h2>
         <img src="{{ get_url(path=page.extra.image) }}"
             style="float: right; height: 250px; width: auto; margin: 0 0 1rem 1.5rem; border-radius: 16px;" />
-        <h2>{{ page.extra.name }}</h2>
         <p><strong>{{ page.extra.position}}</strong>
         {% if page.extra.link %}
         <a href="{{ page.extra.link }}"
@@ -87,9 +87,9 @@
     {% for page in section.pages %}
     {% if page.extra.position == "MS Student" %}
     <div style="overflow: hidden;">
+        <h2>{{ page.extra.name }}</h2>
         <img src="{{ get_url(path=page.extra.image) }}"
             style="float: right; height: 250px; width: auto; margin: 0 0 1rem 1.5rem; border-radius: 16px;" />
-        <h2>{{ page.extra.name }}</h2>
         <p><strong>{{ page.extra.position}}</strong>
             {% if page.extra.link %}
             <a href="{{ page.extra.link }}"
@@ -110,9 +110,9 @@
     {% set section = get_section(path="personnel/alumni/_index.md") %}
     {% for page in section.pages %}
     <div style="overflow: hidden;">
+        <h2>{{ page.extra.name }}</h2>
         <img src="{{ get_url(path=page.extra.image) }}"
             style="float: right; height: 250px; width: auto; margin: 0 0 1rem 1.5rem; border-radius: 16px;" />
-        <h2>{{ page.extra.name }}</h2>
         <p><strong>{{ page.extra.position}}</strong>
         {% if page.extra.link %}
         <a href="{{ page.extra.link }}"

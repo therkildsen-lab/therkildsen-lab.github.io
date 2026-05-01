@@ -30,13 +30,22 @@
 
         {% if person_path != "" %}
         {% set person_page = get_page(path=person_path) %}
-        <img src="{{ person_page.extra.image }}" alt="{{ person_page.extra.name }}"
-            style="border-radius: 50%; height: 50px; width: 50px; object-fit: cover;">
-        <span>{{ person_page.extra.name }}</span>
+        <span style="white-space: nowrap; display: inline-flex; align-items: center; gap: 4px;">
+            <img src="{{ person_page.extra.image }}" alt="{{ person_page.extra.name }}"
+                style="border-radius: 50%; height: 50px; width: 50px; object-fit: cover;">
+            <span>{{ person_page.extra.name }}</span>
+        </span>
         {% endif %}
         {% endfor %}
     </div><br>
     {% endif %}
+
+    <style>
+        .page img {
+            display: block;
+            margin: 0 auto;
+        }
+    </style>
 
     <div class="page animate">
         {{ page.content | safe }}
