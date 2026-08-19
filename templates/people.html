@@ -84,7 +84,8 @@
 
 <div class="container">
     {% set section = get_section(path="personnel/current/_index.md") %}
-    {% for page in section.pages %}
+    {% set sorted_pages = section.pages | sort(attribute="extra.name") %}
+    {% for page in sorted_pages %}
     {% if page.extra.position == "MS Student" %}
     <div style="overflow: hidden;">
         <h2>{{ page.extra.name }}
@@ -108,7 +109,8 @@
     <h2 style="text-align: center; color: #1495a7;">Lab Alumni</h2>
 
     {% set section = get_section(path="personnel/alumni/_index.md") %}
-    {% for page in section.pages %}
+    {% set sorted_pages = section.pages | sort(attribute="extra.name") %}
+    {% for page in sorted_pages %}
     <div style="overflow: hidden;">
         <h2>{{ page.extra.name }}
         {% if page.extra.link %}
