@@ -21,7 +21,8 @@
     <hr>
     <h2 style="text-align: center; color: #1495a7;">Current Members</h2>
     {% set section = get_section(path="personnel/current/_index.md") %}
-    {% for page in section.pages %}
+    {% set sorted_pages = section.pages | sort(attribute="extra.name") %}
+    {% for page in sort_pages %}
     {% if page.extra.position == "Postdoc" %}
     <div style="overflow: hidden;">
         <h2>{{ page.extra.name }}
@@ -42,7 +43,8 @@
 
 <div class="container">
     {% set section = get_section(path="personnel/current/_index.md") %}
-    {% for page in section.pages %}
+    {% set sorted_pages = section.pages | sort(attribute="extra.name") %}
+    {% for page in sort_pages %}
     {% if page.extra.position == "PhD Candidate" %}
     <div style="overflow: hidden;">
         <h2>{{ page.extra.name }}
@@ -63,7 +65,8 @@
 
 <div class="container">
     {% set section = get_section(path="personnel/current/_index.md") %}
-    {% for page in section.pages %}
+    {% set sorted_pages = section.pages | sort(attribute="extra.name") %}
+    {% for page in sort_pages %}
     {% if page.extra.position == "PhD Student" %}
     <div style="overflow: hidden;">
         <h2>{{ page.extra.name }}
