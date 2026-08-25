@@ -10,7 +10,7 @@ image = '/images/blinkseq.webp'
 
 What originally began as trying to adopt haplotagging linked-read sequencing from Frank Chan's laboratory group has grown into
 into a significant collaboration with the Cornell Genomics Innovation Hub led by Jennifer Grenier and our own Azwad Iqbal. 
-After years of trial and  error, Jennifer, Azwad, and the rest of the team developed BLink-seq, our take on approachable linked-read sequencing ([preprint](https://doi.org/10.64898/2026.08.03.742036)).
+After years of trial and  error, Jennifer, Azwad, and the rest of the team developed BLink-seq ([link](https://blinkseq.github.io/)), our take on approachable linked-read sequencing ([preprint](https://doi.org/10.64898/2026.08.03.742036)).
 
 ![BLink-seq in a nutshell](https://blinkseq.github.io/_astro/BLinkseq.B7NGO4jb_22k61m.webp)
 
@@ -23,7 +23,7 @@ community. This is a pretty big deviation from other linked-read technologies wh
 
 Our commitment to this is serious: Pavel developed and maintins the [Harpy](https://github.com/pdimens/harpy) data processing
 suite, along with other bioinformatics tools like the linked-read simulator ([Mimick](https://github.com/pdimens/mimick)) and 
-a new version of the Lariat linked-read aligner ([Arachne](https://github.com/pdimens/mimick)). We also made sure the 
+a new version of the Lariat linked-read aligner ([Arachne](https://github.com/pdimens/arachne)). We also made sure the 
 [BLink-seq website](https://blinkseq.github.io/) is more than just a showcase-- the full description and version-controlled
 protocols are on there, and so is a wealth of information about linked-reads. So much so that we think it might be the only 
 public-facing source of information and standards about linked-read data. The website covers general topics from general
