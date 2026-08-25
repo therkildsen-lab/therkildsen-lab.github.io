@@ -15,10 +15,11 @@
             {{ page.extra.blurb }}
         </p>
     </div>
+    <br>
 </div>
 
+<h2 style="text-align: center; color: #1495a7;">Current Members</h2>
 <div class="container">
-    <h2 style="text-align: center; color: #1495a7;">Current Members</h2>
     {% set section = get_section(path="personnel/current/_index.md") %}
     {% set sorted_pages = section.pages | sort(attribute="extra.name") %}
     {% for page in sorted_pages %}
@@ -61,10 +62,11 @@
     </div>
     {% endif %}
     {% endfor %}
+    <br>
 </div>
 
+<h2 style="text-align: center; color: #1495a7;">Lab Alumni</h2>
 <div class="container">
-    <h2 style="text-align: center; color: #1495a7;">Lab Alumni</h2>
     {% set section = get_section(path="personnel/alumni/_index.md") %}
     {% set sorted_pages = section.pages | sort(attribute="extra.name") %}
     {% for page in sorted_pages %}
