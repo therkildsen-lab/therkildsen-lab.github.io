@@ -12,7 +12,7 @@
             style="float: left; height: 300px; width: auto; margin: 0 1rem 1.5rem 0 ; border-radius: 16px;" />
         <p><strong>{{ page.extra.position}}</strong>
             <br>
-            {{ page.extra.blurb }}
+            {{ page.content | safe }}
         </p>
     </div>
     <br>
@@ -34,7 +34,7 @@
             style="float: right; height: 250px; width: auto; margin: 0 0 1rem 1.5rem; border-radius: 16px;" />
         <p><strong>{{ page.extra.position}}</strong>
         <br>
-        {{ page.extra.blurb }}
+        {{ page.content | safe }}
     </p>
     </div>
     {% endif %}
@@ -57,7 +57,7 @@
             style="float: right; height: 250px; width: auto; margin: 0 0 1rem 1.5rem; border-radius: 16px;" />
         <p><strong>{{ page.extra.position}}</strong>
         <br>
-        {{ page.extra.blurb }}
+        {{ page.content | safe }}
         </p>
     </div>
     {% endif %}
@@ -80,7 +80,7 @@
             style="float: right; height: 250px; width: auto; margin: 0 0 1rem 1.5rem; border-radius: 16px;" />
         <p><strong>{{ page.extra.position}}</strong>
         <br>
-        {{ page.extra.blurb }}
+        {{ page.content | safe }}
         </p>
     </div>
     {% endfor %}
