@@ -22,9 +22,9 @@ community. This is a pretty big deviation from other linked-read technologies wh
 - stLFR: proprietary commercial product
 - haplotagging: becoming a proprietary commercial product
 
-Our commitment to this is serious: Pavel developed and maintains the [Harpy](https://github.com/pdimens/harpy) data processing
-suite, along with other bioinformatics tools like the linked-read simulator ([Mimick](https://github.com/pdimens/mimick)) and 
-a new version of the Lariat linked-read aligner ([Arachne](https://github.com/pdimens/arachne)). We also made sure the 
+Our commitment to this is serious: Pavel developed and maintains the [Harpy](https://github.com/blinkseq/harpy) data processing
+suite, along with other bioinformatics tools like the linked-read simulator ([Mimick](https://github.com/blinkseq/mimick)) and 
+a new version of the Lariat linked-read aligner ([Arachne](https://github.com/blinkseq/arachne)). We also made sure the 
 [BLink-seq website](https://blinkseq.github.io/) is more than just a showcase-- the full description and version-controlled
 protocols are on there, and so is a wealth of information about linked-reads. So much so that we think it might be the only 
 public-facing source of information and standards about linked-read data. The website covers general topics from general
