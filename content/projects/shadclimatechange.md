@@ -7,12 +7,12 @@ description = "Describing subpopulation range shifts of a migratory fish"
 tags = ["gene flow", "climate change", "shad"]
 [extra]
 involved = ["Pavel Dimens"]
-image = '/images/shad.jpg'
+image = '/images/projects/shad.jpg'
 +++
 
 Climate change is causing many species to shift where they live, but most research has focused on entire species rather than the individual populations that make them up. This matters because populations can be genetically distinct and locally adapted, meaning they may respond differently to environmental change. Understanding whether range shifts happen because populations move, expand, or disappear is key to predicting how species will adapt and persist over time.
 
-![range shift conundrum](/images/shadranges.png)
+![range shift conundrum](/images/projects/shadranges.png)
 _The project, in a nutshell_
 
 Anadromous fish like American shad, which are born in rivers and migrate to the ocean before returning to spawn, offer a unique opportunity to study these dynamics. While most individuals return to their birth river, some “stray” into new rivers, potentially introducing gene flow between populations. Climate change may influence this behavior, pushing fish toward more favorable conditions and altering patterns of movement and reproduction. These changes can have important consequences for population structure, adaptation, and long-term resilience.
@@ -26,6 +26,6 @@ The American shad are somewhat tricky to study because they have been so heavily
 that are likely not to have been impacted by the intense stocking efforts. Stay tuned as Pavel prepares these many samples
 using the cutting-edge Haplotagging sequencing technology to get to the bottom of this.
 
-![shad stocking in US east](/images/shad_stocking.png)
+![shad stocking in US east](/images/projects/shad_stocking.png)
 _Data compiled by Dan Hasselman, visualized by Pavel Dimens. Arrow thickness indicates relative stocking volume._
 
