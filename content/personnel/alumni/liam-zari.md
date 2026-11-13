@@ -2,7 +2,7 @@
 [extra]
 name = "Liam Zarri"
 position = "PhD Student"
-image = "/images/liam.avif"
+image = "/images/people/liam.avif"
 link = "https://zarriliam.wixsite.com/research"
 +++
 Liam studied the impact of rapid evolution on ecological processes in applied systems.

@@ -2,7 +2,7 @@
 [extra]
 name = "Naoko Kurata"
 position = "Postdoc"
-image = "/images/naoko.png"
+image = "/images/people/naoko.png"
 +++
 Naoko integrates her profound respect for aquatic ecosystems into innovative research at the
 intersection of genomics and conservation. At Cornell University, Naoko led the development

@@ -2,7 +2,7 @@
 [extra]
 name = "Pavel Dimens"
 position = "Postdoc"
-image = "/images/pavel.jpg"
+image = "/images/people/pavel.jpg"
 link = "https://pdimens.github.io"
 +++
 Pavel is interested in how fish movement over evolutionary time impacts and informs conservation genetics.

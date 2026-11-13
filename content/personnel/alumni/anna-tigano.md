@@ -2,7 +2,7 @@
 [extra]
 name = "Anna Tigano"
 position = "Postdoc"
-image = "/images/anna_tigano.jpg"
+image = "/images/people/anna_tigano.jpg"
 link = "https://annatigano.weebly.com/"
 +++
 Anna uses a combination of genomic approaches, including population and comparative genomics,

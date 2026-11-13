@@ -2,7 +2,7 @@
 [extra]
 name = "Maria Akopyan"
 position = "PhD Student"
-image = "/images/maria_akopyan.webp"
+image = "/images/people/maria_akopyan.webp"
 link = "https://www.makopyan.com/"
 +++
 Maria was co-advised by Nina and Kelly Zamudio, where she combined population genomics,

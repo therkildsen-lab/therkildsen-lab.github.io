@@ -2,7 +2,7 @@
 [extra]
 name = "Heath Cook"
 position = "PhD Candidate"
-image = "/images/heath.jpg"
+image = "/images/people/heath.jpg"
 +++
 Heath is interested in marine biomonitoring and developing methods to overcome the difficulties
 in sampling biodiversity in regions of the world with reduced research infrastructure. He is currently

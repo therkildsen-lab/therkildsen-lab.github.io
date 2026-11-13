@@ -2,7 +2,7 @@
 [extra]
 name = "Jonathan Velotta"
 position = "Postdoc"
-image = "/images/john_velotta.jpg"
+image = "/images/people/john_velotta.jpg"
 link = "https://velottalab.com/"
 +++
 John is an evolutionary ecologist studying how animals adapt to their environment,

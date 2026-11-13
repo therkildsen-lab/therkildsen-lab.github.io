@@ -3,7 +3,7 @@
 name = "Charlie Kortleven"
 position = "PhD Student"
 link = "https://www.linkedin.com/in/charlie-kortleven/"
-image = "/images/charlie_kortleven.jpg"
+image = "/images/people/charlie_kortleven.jpg"
 +++
 Charlie hails from Venice, California and spent her childhood in and around the ocean,
 developing a desire to conserve its magnificent biodiversity. Charlie's undergraduate

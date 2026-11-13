@@ -2,7 +2,7 @@
 [extra]
 name = "Emily Chei"
 position = "Undergrad Technician"
-image = "/images/emily_chei.jpg"
+image = "/images/people/emily_chei.jpg"
 +++
 Emily is focused on anthropogenic effects on reef resilience and bleaching tolerance.
 Using stable isotope analysis, she studies how symbiosis is affected by nutrient pollution

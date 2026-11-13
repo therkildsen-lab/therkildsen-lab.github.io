@@ -2,7 +2,7 @@
 [extra]
 name = "Áki Jarl Láruson"
 position = "Postdoc"
-image = "/images/aki.jpg"
+image = "/images/people/aki.jpg"
 link = "https://akijarl.wordpress.com/"
 +++
 Áki is an evolutionary biologist who focuses on question of adaptation in the sea.

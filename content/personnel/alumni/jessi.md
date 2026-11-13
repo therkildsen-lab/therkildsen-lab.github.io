@@ -2,7 +2,7 @@
 [extra]
 name = "Jessi Rick"
 position = "Postdoc"
-image = "/images/jessi.webp"
+image = "/images/people/jessi.webp"
 link = "https://jessicarick.com/"
 +++
 While working with Nina, Jessi primarily studied Atlantic Silversides. After her post-doc,

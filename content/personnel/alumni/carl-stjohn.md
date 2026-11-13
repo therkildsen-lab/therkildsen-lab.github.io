@@ -3,7 +3,7 @@
 name = "Carl St. John"
 position = "PhD Student"
 link = "https://castjohn.github.io/"
-image = "/images/carl_stjohn.jpg"
+image = "/images/people/carl_stjohn.jpg"
 +++
 Carl is interested in the evolutionary genetics of trait variation and applying this interest to aid
 conservation and management of polar and temperate fisheries. He has worked in the North Pacific, Bering Sea,

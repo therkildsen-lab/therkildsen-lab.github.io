@@ -5,7 +5,7 @@ description = "Linked-read sequencing for everyone"
 [taxonomies]
 tags = ["misc"]
 [extra]
-image = '/images/blinkseq.webp'
+image = '/images/projects/blinkseq.webp'
 +++
 
 What originally began as trying to adopt haplotagging linked-read sequencing from Frank Chan's laboratory group has grown into

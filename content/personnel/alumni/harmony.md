@@ -2,7 +2,7 @@
 [extra]
 name = "Harmony Borchardt-Wier"
 position = "Lab Manager"
-image = "/images/harmony-borchardt-wier.png"
+image = "/images/people/harmony-borchardt-wier.png"
 +++
 Harmony has been wrangling oysters in Matt Hare’s lab since 2008 and figuring out fish
 in Nina Therkildsen’s lab since 2016. She excels at being skeptical that her tubes of clear

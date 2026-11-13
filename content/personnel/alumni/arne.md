@@ -2,7 +2,7 @@
 [extra]
 name = "Arne Jacobs"
 position = "Postdoc"
-image = "/images/arne.webp"
+image = "/images/people/arne.webp"
 link = "https://arnejacobs.com/"
 +++
 Arne focuses on using population genomic and functional genomic approaches for understanding

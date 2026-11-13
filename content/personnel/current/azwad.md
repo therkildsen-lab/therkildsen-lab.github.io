@@ -2,7 +2,7 @@
 [extra]
 name = "Azwad Iqbal"
 position = "PhD Candidate"
-image = "/images/azwad.jpg"
+image = "/images/people/azwad.jpg"
 link = "https://azwadriqbal.github.io/"
 +++
 Azwad is interested in evolutionary genomics and conservation, with particular focus on

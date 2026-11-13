@@ -2,7 +2,7 @@
 [extra]
 name = "Runyang 'Nicolas' Lou"
 position = "PhD Student"
-image = "/images/nicolas.jpg"
+image = "/images/people/nicolas.jpg"
 +++
 Nicolas is broadly interested in the application of genomic tools in the conservation
 and management of biodiversity. He studied the genomic basis of local adaption in the

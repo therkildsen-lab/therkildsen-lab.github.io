@@ -7,7 +7,7 @@ description = "A low-cost linked-read technology for the masses"
 tags = ["technology"]
 [extra]
 involved = ["Azwad Iqbal", "Pavel Dimens"]
-image = '/images/haplotagging.jpg'
+image = '/images/projects/haplotagging.jpg'
 +++
 
 ## What is linked-read sequencing?
@@ -30,7 +30,7 @@ indicating that they originated from the same original DNA molecule. In the end,
 that are sized for sequencing on a short-read sequencer (like Illumina NovaSeq), and each of the DNA sequences
 will have a known association with other sequences that share the same barcode.
 
-![haplotagging](/images/haplotagging.jpg)
+![haplotagging](/images/projects/haplotagging.jpg)
 _Haplotagging in a nutshell, from Meier et al. 2021_
 
 ## Creating supporting software
@@ -42,7 +42,7 @@ pipeline that processes haplotagging data from raw sequences through alignment, 
 detection, and haplotype reconstruction, with workflows designed specifically for linked-read 
 data (although it has been modified to work on non linked-read data too).
 
-![harpy logo](/images/harpy.png)
+![harpy logo](/images/projects/harpy.png)
 _The Harpy logo_
 
 Using many of the previous software suites and tools as inspiration, Harpy is designed to be impressively user-friendly, which includes

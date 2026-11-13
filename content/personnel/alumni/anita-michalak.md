@@ -2,7 +2,7 @@
 [extra]
 name = "Anita Michalak"
 position = "Undergrad Technician"
-image = "/images/anita_michalak.jpg"
+image = "/images/people/anita_michalak.jpg"
 link = "https://www.linkedin.com/in/anita-michalak/"
 +++
 Anita is a wildlife biologist with an interest in conservation genomics and applied

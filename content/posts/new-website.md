@@ -6,8 +6,8 @@ authors = ["Pavel Dimens"]
 [taxonomies]
 tags = ["misc"]
 [extra]
-image = '/images/website.png'
-author_image = "/images/pavel.jpg"
+image = '/images/posts/website.png'
+author_image = "/images/people/pavel.jpg"
 +++
 
 Our previous website had its time in the sun and we're grateful for it being the public face of our research group,

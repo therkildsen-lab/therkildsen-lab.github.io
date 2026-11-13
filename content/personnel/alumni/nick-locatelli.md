@@ -2,7 +2,7 @@
 [extra]
 name = "Nick Locatelli"
 position = "Technician"
-image = "/images/nick_locatelli.jpg"
+image = "/images/people/nick_locatelli.jpg"
 link = "https://nicolaslocatelli.com/"
 +++
 Nick is broadly interested in the conservation of aquatic organisms using genetic data.

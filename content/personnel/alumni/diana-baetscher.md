@@ -2,7 +2,7 @@
 [extra]
 name = "Diana Baetscher"
 position = "Postdoc"
-image = "/images/diana_baetscher.jpg"
+image = "/images/people/diana_baetscher.jpg"
 link = "https://dianabaetscher.wordpress.com/"
 +++
 Diana was a postdoc with Nina and Pete McIntyre, applying DNA metabarcoding to identify which of the oceans’
