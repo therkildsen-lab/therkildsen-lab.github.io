@@ -7,12 +7,12 @@ description = "Methylation-based age prediction in Atlantic Sturgeon"
 tags = ["conservation"]
 [extra]
 involved = ["Kara Jones"]
-image = '/images/sturgeon.jpg'
+image = '/images/projects/sturgeon.jpg'
 +++
 
 Atlantic Sturgeon are long-lived, late-maturing fish that are endangered across most of their range. Populations face ongoing threats from ship strikes, barriers such as dams that limit access to spawning habitat, and incidental capture as bycatch in commercial fisheries. Effective conservatihttps://doi.org/10.1101/gr.266551.120on and recovery planning depend on accurate estimates of age, which are essential for understanding growth rates, survival, and population dynamics. However, traditional aging methods that rely on hard structures (such as fin rays and spines) can be unreliable in older individuals, while other structures (such as otoliths) can only be collected post-mortem.
 
-![Atlantic sturgeon](/images/sturgeon.jpg)
+![Atlantic sturgeon](/images/projects/sturgeon.jpg)
 _Atlantic Sturgeon (Acipenser oxyrinchus)_
 
 This project addresses a key limitation identified in recent stock assessments by evaluating the use of “epigenetic clocks”—a molecular approach that estimates age based on predictable changes in DNA methylation over time. Because DNA methylation can be measured from a variety of tissue types, this method offers a non-lethal, scalable, and potentially more accurate alternative to conventional techniques.

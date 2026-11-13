@@ -7,7 +7,7 @@ description = "Trading sequencing depth for more samples and more data"
 tags = ["technology"]
 [extra]
 involved = ["Runyang 'Nicolas' Lou"]
-image = '/images/lcwgs.png'
+image = '/images/projects/lcwgs.png'
 +++
 
 Despite major declines in DNA sequencing costs, researchers still have to balance three trade-offs: how much of the
@@ -29,5 +29,5 @@ the entire genome, it captures broad genomic information while retaining individ
 confidence in individual genotypes but gains wider genome coverage and often allows larger sample sizes at a comparable
 cost to RAD-seq or Pool-seq.
 
-![lcWGS vs others](/images/lcwgsvs.jpg)
+![lcWGS vs others](/images/projects/lcwgsvs.jpg)
 _lcWGS vs other methods_

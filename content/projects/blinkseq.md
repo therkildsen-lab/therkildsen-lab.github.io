@@ -50,10 +50,10 @@ a considerable amount of detail in the command line interface, the descriptive e
 report system, and the software documentation. This effort has made using haplotagging (and linked-read data as a whole)
 nearly effortless for new users and experts alike. 
 
-![typical error messages in Harpy](/images/errormsg.png)
+![typical error messages in Harpy](/images/projects/errormsg.png)
 _Example Harpy error message_
 
-![example of harpy reports](/images/harpyreport.png)
+![example of harpy reports](/images/projects/harpyreport.png)
 _Example Harpy report_
 
 We use Harpy exhaustively, which also means that we can readily adapt it to new workflow patterns, cutting edge software/algorithms,
