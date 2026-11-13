@@ -3,7 +3,7 @@
 name = "Rachel Davis"
 position = "PhD Student"
 link = "https://www.linkedin.com/in/rachel-l-davis/"
-image = '/images/rachel_davis.jpg'
+image = '/images/people/rachel_davis.jpg'
 +++
 Rachel joined the lab as a PhD rotation student in the College of Veterinary Medicine.
 Her research focuses on identifying river-level population structures in Atlantic striped

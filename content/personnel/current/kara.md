@@ -2,7 +2,7 @@
 [extra]
 name = "Kara Jones"
 position = "Postdoc"
-image = '/images/kara.jpg'
+image = '/images/people/kara.jpg'
 link = "https://orcid.org/0000-0002-8168-0815"
 +++
 Kara’s background is in amphibian/reptile phylogenetics, population genetics, and phylogeography.

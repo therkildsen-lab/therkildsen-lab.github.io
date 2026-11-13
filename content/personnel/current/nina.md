@@ -2,7 +2,7 @@
 [extra]
 name = "Nina Overgaard Therkildsen"
 position = "Principal Investigator"
-image = '/images/nina.jpg'
+image = '/images/people/nina.jpg'
 +++
 Nina is head of the lab. She is interested in using cost-effective full-genome screening
 with time series data to observe recent dynamics and microevolution in retrospective “real time”.
