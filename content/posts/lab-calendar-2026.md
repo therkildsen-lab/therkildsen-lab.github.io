@@ -6,7 +6,7 @@ authors = ["Pavel Dimens"]
 [taxonomies]
 tags = ["misc"]
 [extra]
-image = '/images/TherkildsenLab2026.jpg'
+image = '/images/posts/labcalphoto2025.jpg'
 author_image = "/images/people/pavel.jpg"
 +++
 
@@ -36,5 +36,5 @@ Block", which was pretty niche, but it looked _pretty good_. The day of submissi
 Ace of Base from my childhood, realized it would be a much better play on words, since we _do_ work with
 bases. Nina, it turns out, was also a big fan of Ace of Base, so the end result, and what will be featured on the December 2027 NRE calendar is: 
 
-![calendar photo 2026](/images/TherkildsenLab2026.jpg)
+![calendar photo 2026](/images/TherkidlsenLab2026.jpg)
 
