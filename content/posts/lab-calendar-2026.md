@@ -38,7 +38,7 @@ submission that set the precedent for trying to do photos that pretended to be a
 
 ### 2026
 We didn't exactly agree on a plan beforehand, but I was convinced the end-result would be a[nother] nod to the
-90s or early 2000s, although I did suggest we try [Heaven and Hell (Black Sabbath)](https://www.black-sabbath.com/images/covers/heavenandhell_large.jpg)
+90s or early 2000s, although I did suggest we try [Heaven and Hell (Black Sabbath)](https://www.decibelmagazine.com/wp-content/uploads/2008/09/il_fullxfull.1403752315_bvvf-1170x1170.jpg)
 and [The Album (BLACKPINK)](https://dbkpop.com/wp-content/uploads/2021/07/blackpink_the_album_jp_version_cover_all.jpg), and both ideas were unsurprisingly ignored.
 The first draft of this was a reference to New Kids on the Block "Therkilds on the 
 Block", which was pretty niche, but it looked _pretty good_. The day of submission, I, a huge fan of
