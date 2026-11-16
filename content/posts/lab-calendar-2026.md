@@ -18,9 +18,11 @@ approached has been "album covers." While there's still pleny of room to grow (e
 _I_ think we're on a hot streak. Here's a look at our fun calendar photos.
 
 ### 2024
-The idea here was to combine laboratory safety and pipetting with the simple act of adding creamer to coffee, with all the endearing body language of stock photos for "laboratory" and "science."
+The idea here was to combine laboratory safety and pipetting with the simple act of adding creamer to coffee,
+with all the endearing body language of stock photos for "laboratory" and "science." This was our first attempt,
+and I like to believe we've refined our approach since.
 
-[PICTURE TBD WHEN THE FILE GETS FOUND]
+![calendar photo 2024](/images/posts/labcalphoto2024.jpg)
 
 ### 2025
 There was no specific album in mind for this one, but we went for a general 'gritty hip hop' tone here.
