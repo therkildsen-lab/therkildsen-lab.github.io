@@ -1,7 +1,7 @@
 +++
 date = "2026-11-16 15:01:35"
 title = "The NRE Calendar"
-description = "Building a sense of camaraderie"
+description = "Calendar-based camaraderie"
 authors = ["Pavel Dimens"]
 [taxonomies]
 tags = ["misc"]
